@@ -2,7 +2,7 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 
 # Insanity <h1>
 
-**bot net**
+<span style="color: green"> BotNet </span>
 
 ![GitHub Logo](/images/logo.png)
 
