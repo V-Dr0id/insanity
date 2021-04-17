@@ -6,12 +6,16 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 
 ![GitHub Logo](/images/logo.png)
 
+## Table of contents
+* [Helpers](#people-that-helped)
+* [logo](#Insanity)
+* [howto](#setup)
+
 # people that helped <h1> 
   
-1. **ChildEater101**
-2. **No.v.is**
+1. **No.v.is**
 
-# **how to use the botnet** <h1>
+# **setup** <h1>
 
 ![GitHub Logo](/images/putty.png)
 
