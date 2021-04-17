@@ -17,7 +17,7 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 
 # **setup** <h1>
 
-![GitHub Logo](/images/putty .png)
+![GitHub Logo](/images/putty.png)
 
 1.step one:
 you will get an ip and use putty to connect to it 
