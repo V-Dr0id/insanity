@@ -7,9 +7,9 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 ![GitHub Logo](/images/logo.png)
 
 ## Table of contents
-* [Helpers](#people-that-helped)
-* [logo](#Insanity)
-* [howto](#setup)
+* [setup](#setup)
+* [Insanity](#Insanity)
+* [install](#install)
 
 # people that helped <h1> 
   
