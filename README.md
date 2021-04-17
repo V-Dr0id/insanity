@@ -30,6 +30,6 @@ ip
 
 # **install** <h1>
   
-![GitHub Logo](/images/downloads.png.png)
+![GitHub Logo](/images/download.png)
 
 1.download it as the zip file and then be cool and set up a ssh server <h4>
