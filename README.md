@@ -29,6 +29,6 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
   
 ![GitHub Logo](/images/download.png)
 
-for updates and promotions invloing the insanity project you can refer to our website
+for updates and promotions involving the insanity project you can refer to our website
 
   <span style="color: red">url! (website is still in development)</span>
