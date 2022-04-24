@@ -9,7 +9,7 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 ## Table of contents
 * [setup](#setup)
 * [Insanity](#Insanity)
-* [install](#install)
+* [webpage](#webpage)
 
 # people that helped <h1> 
   
@@ -20,16 +20,15 @@ visit https://www.youtube.com/channel/UCTq4_OgxRfaBhFMkcM9k2PQ.
 ![GitHub Logo](/images/putty.png)
 
 1.step one:
-you will get an ip and use putty to connect to it 
-:)
+  gitclone the insanity project to your ssh server 
 
 2.step two:
-there is no step to you connect to an 
-ip
-:))))))))))))))))
+  once cloned run build.py
 
-# **install** <h1>
+# **webpage** <h1>
   
 ![GitHub Logo](/images/download.png)
 
-1.download it as the zip file and then be cool and set up a ssh server <h4>
+for updates and promotions invloing the insanity project you can refer to our website
+
+  <span style="color: red">url! (website is still in development)</span>
